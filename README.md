@@ -1,4 +1,6 @@
-## Table of Contents:
+# NUVI Customer API
+
+### Table of Contents:
 
 - [NUVI Query Language (NQL)](pages/nuvi-query-language.md)
 - [Authentication - Request Signing Authentication](pages/request-signing-authentication.md)
