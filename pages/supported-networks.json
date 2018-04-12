@@ -1,0 +1,77 @@
+[
+  {
+    "network": "Weibo",
+    "name": "weibo",
+    "is_premium": true
+  },
+  {
+    "network": "Blogs, News, RSS",
+    "name": "rss",
+    "is_premium": false
+  },
+  {
+    "network": "Twitter",
+    "name": "twitter",
+    "is_premium": false
+  },
+  {
+    "network": "Facebook",
+    "name": "facebook",
+    "is_premium": false
+  },
+  {
+    "network": "Instagram",
+    "name": "instagram",
+    "is_premium": false
+  },
+  {
+    "network": "Reddit",
+    "name": "reddit",
+    "is_premium": false
+  },
+  {
+    "network": "VK",
+    "name": "vk",
+    "is_premium": false
+  },
+  {
+    "network": "YouTube",
+    "name": "youtube",
+    "is_premium": false
+  },
+  {
+    "network": "Google Plus",
+    "name": "google_plus",
+    "is_premium": false
+  },
+  {
+    "network": "Stack Overflow",
+    "name": "stack_overflow",
+    "is_premium": false
+  },
+  {
+    "network": "Tumblr",
+    "name": "tumblr",
+    "is_premium": false
+  },
+  {
+    "network": "Disqus",
+    "name": "disqus",
+    "is_premium": false
+  },
+  {
+    "network": "Automattic",
+    "name": "automattic",
+    "is_premium": false
+  },
+  {
+    "network": "Pinterest",
+    "name": "pinterest",
+    "is_premium": false
+  },
+  {
+    "network": "Product Reviews",
+    "name": "pinterest",
+    "is_premium": false
+  }
+]
