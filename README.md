@@ -8,3 +8,4 @@
 - [Monitor Analysis REST API](pages/monitor-analysis-rest-api.md)
 - [Supported Languages](pages/supported-languages.json)
 - [Supported Networks](pages/supported-networks.json)
+- [Twitter Search Historical REST API](pages/twitter-search-rest-api.md)
